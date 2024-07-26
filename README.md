@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Filipe Guermandi and I'm a Developer Front-End, from Brazil &#1f1f7</h2>
+
+
+<h2 align="left">Hi ✌🏼! My name is <strong>Filipe Guermandi</strong> and I'm a Developer Front-End, from Brazil</h2>
 
 ###
 
